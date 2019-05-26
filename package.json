@@ -1,0 +1,24 @@
+{
+  "name": "nodegpio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "yarn nodemon ./dist/index.js",
+    "watch": "yarn tsc -p tsconfig.json -w",
+    "build": "yarn tsc -p tsconfig.json"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "onoff": "^4.0.0"
+  },
+  "devDependencies": {
+    "@types/express": "^4.16.1",
+    "@types/node": "^11.10.4",
+    "nodemon": "^1.18.10",
+    "tslint": "^5.13.1",
+    "typescript": "^3.3.3333"
+  }
+}

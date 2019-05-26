@@ -1,0 +1,32 @@
+{
+    "api": {
+        "key": "962b02c386c2addf6d87c9f925dc518a",
+        "url": "https://www.toggl.com"
+    },
+    "buttons": [
+        {
+            "id": 17,
+            "description": "Hello World",
+            "wid": 1273,
+            "pid": 12
+        },
+        {
+            "id": 22,
+            "description": "",
+            "wid": -1,
+            "pid": -1
+        },
+        {
+            "id": 23,
+            "description": "",
+            "wid": -1,
+            "pid": -1
+        },
+        {
+            "id": 27,
+            "description": "",
+            "wid": -1,
+            "pid": -1
+        }
+    ] 
+}
